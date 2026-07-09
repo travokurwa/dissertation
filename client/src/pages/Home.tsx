@@ -152,13 +152,6 @@ export default function Home() {
                   >
                     → Читать на сайте журнала
                   </a>
-                  <a
-                    href="/manus-storage/BE_05_2026_08b56357.pdf"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block text-accent hover:text-accent/80 text-sm font-medium transition-colors"
-                  >
-                  </a>
                 </div>
               </div>
             </Card>
@@ -185,13 +178,6 @@ export default function Home() {
                   >
                     → Читать на сайте журнала
                   </a>
-                  <a
-                    href="/manus-storage/stat_2_84209c13.pdf"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block text-accent hover:text-accent/80 text-sm font-medium transition-colors"
-                  >
-                  </a>
                 </div>
               </div>
             </Card>
@@ -217,13 +203,6 @@ export default function Home() {
                     className="block text-accent hover:text-accent/80 text-sm font-medium transition-colors"
                   >
                     → Читать на сайте журнала
-                  </a>
-                  <a
-                    href="/manus-storage/stat_3_7b18826a.pdf"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block text-accent hover:text-accent/80 text-sm font-medium transition-colors"
-                  >
                   </a>
                 </div>
               </div>
@@ -275,7 +254,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="block text-accent hover:text-accent/80 text-sm font-medium transition-colors"
                   >
-                    → Читать на сайте журналаккккккк
+                    → Читать на сайте журнала
                   </a>
                 </div>
               </div>
@@ -302,13 +281,6 @@ export default function Home() {
                     className="block text-accent hover:text-accent/80 text-sm font-medium transition-colors"
                   >
                     → Читать на сайте журнала
-                  </a>
-                  <a
-                    href="/manus-storage/stat_6_e07f99dd.pdf"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block text-accent hover:text-accent/80 text-sm font-medium transition-colors"
-                  >
                   </a>
                 </div>
               </div>
