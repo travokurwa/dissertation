@@ -235,30 +235,32 @@ export default function Home() {
             </Card>
 
             {/* Publication 5 */}
-            <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
-              <div className="aspect-video bg-gradient-to-br from-accent/10 to-primary/10 flex items-center justify-center">
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-accent">BE</div>
-                </div>
-              </div>
-              <div className="p-6">
-                <div className="text-xs text-accent font-semibold mb-2">Business Excellence • Март 2026</div>
-                <h3 className="font-bold text-lg text-primary mb-2">
-                  Профессии будущего: когда работа — это зов сердца, а не принуждение
-                </h3>
-                <p className="text-sm text-foreground/60 mb-4">Михаил Палагин</p>
-                <div className="space-y-3">
-                  <a
-                    href="https://ria-stk.ru/ds/adetail.php?ID=249516"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block text-accent hover:text-accent/80 text-sm font-medium transition-colors"
-                  >
-                    → Читать на сайте журнала
-                  </a>
-                </div>
-              </div>
-            </Card>
+                      <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
+                          <div className="aspect-video overflow-hidden bg-muted">
+                              <img
+                                  src="C:\Users\palag\OneDrive\Рабочий стол\папе\client\public\five" 
+                                  alt="Обложка статьи"
+                                  className="w-full h-full object-cover"
+                              />
+                          </div>
+                          <div className="p-6">
+                              <div className="text-xs text-accent font-semibold mb-2">Business Excellence • Март 2026</div>
+                              <h3 className="font-bold text-lg text-primary mb-2">
+                                  Профессии будущего: когда работа — это зов сердца, а не принуждение
+                              </h3>
+                              <p className="text-sm text-foreground/60 mb-4">Михаил Палагин</p>
+                              <div className="space-y-3">
+                                  <a
+                                      href="https://ria-stk.ru/ds/adetail.php?ID=249516"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      className="block text-accent hover:text-accent/80 text-sm font-medium transition-colors"
+                                  >
+                                      → Читать на сайте журнала
+                                  </a>
+                              </div>
+                          </div>
+                      </Card>
 
             {/* Publication 6 */}
             <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
