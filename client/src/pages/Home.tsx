@@ -262,12 +262,13 @@ export default function Home() {
                       </Card>
 
             {/* Publication 6 */}
-            <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
-              <div className="aspect-video bg-gradient-to-br from-accent/10 to-primary/10 flex items-center justify-center">
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-accent">BE</div>
+             <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
+                <div className="aspect-video overflow-hidden bg-muted">
+                    <img
+                        src="/images/six.jpg"
+                        className="w-full h-full object-cover"
+                     />
                 </div>
-              </div>
               <div className="p-6">
                 <div className="text-xs text-accent font-semibold mb-2">Business Excellence • Декабрь 2025</div>
                 <h3 className="font-bold text-lg text-primary mb-2">
