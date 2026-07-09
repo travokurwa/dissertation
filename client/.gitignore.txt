@@ -1,0 +1,81 @@
+# Зависимости
+node_modules/
+.pnp/
+.pnp.js
+
+# Сборка и выходные файлы
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+
+# Логи
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Редакторы и IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Системные файлы
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Файлы окружения
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Кеши
+.cache/
+.parcel-cache/
+.eslintcache
+*.tsbuildinfo
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Windows
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Тесты
+coverage/
+.nyc_output/
+
+# Vercel
+.vercel/
+
+# Netlify
+.netlify/
+
+# Служебные файлы Visual Studio (особенно важное)
+.vsidx
+*.vsidx
