@@ -131,12 +131,13 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Publication 1 */}
-            <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
-              <div className="aspect-video bg-gradient-to-br from-accent/10 to-primary/10 flex items-center justify-center">
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-accent">BE</div>
-                </div>
-              </div>
+                      <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
+                          <div className="aspect-video overflow-hidden bg-muted">
+                              <img
+                                  src="/images/one.jpg"
+                                  className="w-full h-full object-cover"
+                              />
+                          </div>
               <div className="p-6">
                 <div className="text-xs text-accent font-semibold mb-2">Business Excellence • Май 2026</div>
                 <h3 className="font-bold text-lg text-primary mb-2">
@@ -157,12 +158,13 @@ export default function Home() {
             </Card>
 
             {/* Publication 2 */}
-            <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
-              <div className="aspect-video bg-gradient-to-br from-accent/10 to-primary/10 flex items-center justify-center">
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-accent">BE</div>
-                </div>
-              </div>
+                      <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
+                          <div className="aspect-video overflow-hidden bg-muted">
+                              <img
+                                  src="/images/two.jpg"
+                                  className="w-full h-full object-cover"
+                              />
+                          </div>
               <div className="p-6">
                 <div className="text-xs text-accent font-semibold mb-2">Business Excellence • Май 2025</div>
                 <h3 className="font-bold text-lg text-primary mb-2">
@@ -183,12 +185,13 @@ export default function Home() {
             </Card>
 
             {/* Publication 3 */}
-            <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
-              <div className="aspect-video bg-gradient-to-br from-accent/10 to-primary/10 flex items-center justify-center">
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-accent">BE</div>
-                </div>
-              </div>
+                      <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
+                          <div className="aspect-video overflow-hidden bg-muted">
+                              <img
+                                  src="/images/three.jpg"
+                                  className="w-full h-full object-cover"
+                              />
+                          </div>
               <div className="p-6">
                 <div className="text-xs text-accent font-semibold mb-2">Business Excellence • Июль 2025</div>
                 <h3 className="font-bold text-lg text-primary mb-2">
@@ -209,12 +212,13 @@ export default function Home() {
             </Card>
 
             {/* Publication 4 */}
-            <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
-              <div className="aspect-video bg-gradient-to-br from-accent/10 to-primary/10 flex items-center justify-center">
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-accent">BE</div>
-                </div>
-              </div>
+                      <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
+                          <div className="aspect-video overflow-hidden bg-muted">
+                              <img
+                                  src="/images/four.jpg"
+                                  className="w-full h-full object-cover"
+                              />
+                          </div>
               <div className="p-6">
                 <div className="text-xs text-accent font-semibold mb-2">Business Excellence • Март 2025</div>
                 <h3 className="font-bold text-lg text-primary mb-2">
