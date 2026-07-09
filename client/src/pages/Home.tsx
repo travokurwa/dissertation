@@ -239,7 +239,6 @@ export default function Home() {
                           <div className="aspect-video overflow-hidden bg-muted">
                               <img
                                   src="C:\Users\palag\OneDrive\Рабочий стол\папе\client\public\five" 
-                                  alt="Обложка статьи"
                                   className="w-full h-full object-cover"
                               />
                           </div>
