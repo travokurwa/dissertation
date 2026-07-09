@@ -238,7 +238,7 @@ export default function Home() {
                       <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:translate-y-[-4px] border-border">
                           <div className="aspect-video overflow-hidden bg-muted">
                               <img
-                                  src="C:\Users\palag\OneDrive\Рабочий стол\папе\client\public\five" 
+                                  src="/images/five.jpg" 
                                   className="w-full h-full object-cover"
                               />
                           </div>
