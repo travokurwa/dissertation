@@ -275,7 +275,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="block text-accent hover:text-accent/80 text-sm font-medium transition-colors"
                   >
-                    → Читать на сайте журнала
+                    → Читать на сайте журналаккккккк
                   </a>
                 </div>
               </div>
